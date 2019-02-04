@@ -10,4 +10,5 @@ Todo:
 - add directory listing
 
 To build:
+
 `g++ archive.cpp compress.cpp -lz`
