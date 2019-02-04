@@ -8,3 +8,6 @@ knowing if a file exists or not.
 Todo:
 - add file existance checking
 - add directory listing
+
+To build:
+`g++ archive.cpp compress.cpp -lz`
